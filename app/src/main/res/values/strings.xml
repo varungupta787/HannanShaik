@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="action_settings">Settings</string>
+    <array name="array1">
+        <item>sample</item>
+        <item>Siddharth</item>
+        <item>Varun</item>
+    </array>
+    <array name="array2">
+        <item>Cool</item>
+        <item>Hot</item>
+        <item>Sexy</item>
+    </array>
+</resources>
